@@ -1,0 +1,34 @@
+---
+title: "Homework 1"
+author: "Olivia Wilson-Pietrzak"
+---
+
+**Step 1: Setting Up.**
+
+I was able to successfully download the QSF file from Dr. Ho's website, then load the questionnaire into Qualtrics.
+
+**Step 2: Analyze the survey.**
+
+1.  How is the survey structured?
+
+    The survey begins with a disclosure statement. The survey then proceeds through a variety of questions (matrix, multiple choice, drop down selections), before a conclusion page thanking the participant.
+
+2.  What is the questionnaire composed of?
+
+    The first question is a matrix question with 5 point Likert scale.
+
+    The next few questions are a combination of multiple choice questions (ranging from binary to up to 5 options) and drop down answers.
+
+3.  How are the questions ordered?
+
+    The questions escalate in sensitivity, going from broad questions regarding personal media and purchasing preferences to questions about an individual's personal identity and socioeconomic status.
+
+4.  Consider importing additional libraries (demographics and zip code).
+
+    I was able to add in the additional libraries. The demographics was interesting in particular -- there wasn't an "all-inclusive" option -- an option for Hispanic/Latino was not present in the larger list of racial backgrounds. I ended up adding in a question before the race group selection that allowed an individual to select whether or not they were Hispanic/Latino.
+
+5.  Formatting.
+
+    I was able to change the appearance to the UTD Theme, as well as adding in the Skip Logic to question 4. I tried to "chunk" the questions together to save the participant from having to scroll too much, but while keeping similar questions together. I also formatted the matrix to be mobile-friendly.
+
+    To improve respondents' experience, I would try to reduce the number of questions -- some feel a little redundant.
