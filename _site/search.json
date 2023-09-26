@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Olivia Wilson-Pietrzak",
+    "section": "",
+    "text": "EPPS 6302.001, Fall 2023."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an aspiring social scientist currently completing my master’s degree in Social Data Analytics and Research. My research interests are varied, but my most recent work has centered on the intersection of community development, housing, transportation, and economic justice. I hope to center future research on prescriptive solutions promoting socioeconomic equity. Areas of research topics include infrastructure, education, and public policy.\nI graduated with a B.A. in Economics from the University of Texas at Dallas in 2022, and am currently employed as a data analyst in an institutional research role at Dallas College."
+  },
+  {
+    "objectID": "Homework 1/Homework 1.html",
+    "href": "Homework 1/Homework 1.html",
+    "title": "Homework 1",
+    "section": "",
+    "text": "Step 1: Setting Up.\nI was able to successfully download the QSF file from Dr. Ho’s website, then load the questionnaire into Qualtrics.\nStep 2: Analyze the survey.\n\nHow is the survey structured?\nThe survey begins with a disclosure statement. The survey then proceeds through a variety of questions (matrix, multiple choice, drop down selections), before a conclusion page thanking the participant.\nWhat is the questionnaire composed of?\nThe first question is a matrix question with 5 point Likert scale.\nThe next few questions are a combination of multiple choice questions (ranging from binary to up to 5 options) and drop down answers.\nHow are the questions ordered?\nThe questions escalate in sensitivity, going from broad questions regarding personal media and purchasing preferences to questions about an individual’s personal identity and socioeconomic status.\nConsider importing additional libraries (demographics and zip code).\nI was able to add in the additional libraries. The demographics was interesting in particular – there wasn’t an “all-inclusive” option – an option for Hispanic/Latino was not present in the larger list of racial backgrounds. I ended up adding in a question before the race group selection that allowed an individual to select whether or not they were Hispanic/Latino.\nFormatting.\nI was able to change the appearance to the UTD Theme, as well as adding in the Skip Logic to question 4. I tried to “chunk” the questions together to save the participant from having to scroll too much, but while keeping similar questions together. I also formatted the matrix to be mobile-friendly.\nTo improve respondents’ experience, I would try to reduce the number of questions – some feel a little redundant."
+  },
+  {
+    "objectID": "Homework 1/Homework 1.html#step-2",
+    "href": "Homework 1/Homework 1.html#step-2",
+    "title": "Homework 1",
+    "section": "Step 2:",
+    "text": "Step 2:"
+  },
+  {
+    "objectID": "Homework/about.html",
+    "href": "Homework/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "Homework/index.html",
+    "href": "Homework/index.html",
+    "title": "Homework",
+    "section": "",
+    "text": "Homework 1\n\n\n\n\n\n\n\nHomework\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2023\n\n\nOlivia Wilson-Pietrzak\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 11, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Homework/posts/post-with-code/index.html",
+    "href": "Homework/posts/post-with-code/index.html",
+    "title": "Homework 1",
+    "section": "",
+    "text": "**Step 1: Setting Up.**\nI was able to successfully download the QSF file from Dr. Ho’s website, then load the questionnaire into Qualtrics.\n**Step 2: Analyze the survey.**\n1. How is the survey structured?\nThe survey begins with a disclosure statement. The survey then proceeds through a variety of questions (matrix, multiple choice, drop down selections), before a conclusion page thanking the participant.\n2. What is the questionnaire composed of?\nThe first question is a matrix question with 5 point Likert scale.\nThe next few questions are a combination of multiple choice questions (ranging from binary to up to 5 options) and drop down answers.\n3. How are the questions ordered?\nThe questions escalate in sensitivity, going from broad questions regarding personal media and purchasing preferences to questions about an individual’s personal identity and socioeconomic status.\n4. Consider importing additional libraries (demographics and zip code).\nI was able to add in the additional libraries. The demographics was interesting in particular -- there wasn’t an “all-inclusive” option -- an option for Hispanic/Latino was not present in the larger list of racial backgrounds. I ended up adding in a question before the race group selection that allowed an individual to select whether or not they were Hispanic/Latino.\n5. Formatting.\nI was able to change the appearance to the UTD Theme, as well as adding in the Skip Logic to question 4. I tried to “chunk” the questions together to save the participant from having to scroll too much, but while keeping similar questions together. I also formatted the matrix to be mobile-friendly.\nTo improve respondents’ experience, I would try to reduce the number of questions -- some feel a little redundant."
+  },
+  {
+    "objectID": "Homework/posts/welcome/index.html",
+    "href": "Homework/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
